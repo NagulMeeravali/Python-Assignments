@@ -24,3 +24,6 @@ Day-1: Assignments:
 8. Write a python code to create a variable called z, assign x + y to it, and display the result. 
 9.Write a Python code to demonstrate working of   truediv(), floordiv(), pow(), mod() 
 10. Write a Python program to show use of  +  and  *  operator for different purposes. 
+
+
+completed
