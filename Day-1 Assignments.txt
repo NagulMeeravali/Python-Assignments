@@ -1,0 +1,26 @@
+Day-1: Assignments:
+1. Write a python program that prints “hello world” as an output.  
+2. Given two numbers num1 and num2. The task is to write a Python program to find the addition of these two numbers. 
+3. Write a python program to Add two number provided by user input. 
+4. Write a python program to check input data type. Take input from user.  
+5. Demonstrate string literals i.e., single(”), double(“”), or triple quotes in python. 
+6. Write a python program which takes two numbers from user and perform the following arithmetic operations  
+
++	Addition: adds two operands	x + y 
+
+–	Subtraction: subtracts two operands	x – y 
+
+*	Multiplication: multiplies two operands	x * y 
+
+/	Division (float): divides the first operand by the second	x / y 
+
+//	Division (floor): divides the first operand by the second	x // y 
+
+%	Modulus: returns the remainder when the first operand is divided by the second	x % y 
+
+**	 Power: Returns first raised to power second	x ** y. 
+
+7. Write a Python code to demonstrate working of  - add(), sub(), mul(). (take inputs from user) 
+8. Write a python code to create a variable called z, assign x + y to it, and display the result. 
+9.Write a Python code to demonstrate working of   truediv(), floordiv(), pow(), mod() 
+10. Write a Python program to show use of  +  and  *  operator for different purposes. 
