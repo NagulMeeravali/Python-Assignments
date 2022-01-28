@@ -1,0 +1,78 @@
+1. Find minimum value in a given set without using predefined function.
+
+2. Find Maximum value in a given set without using predefined function.
+
+3. Find Total value in a given set without using predefined function.
+
+4. Find Average value in a given set without using predefined function.
+
+5. Find minimum,second min, maximum and second maximum of a given set without using predefined functions.
+
+6. Print all the set items in sorted order (ASC/DESC).
+
+7. Find Number of words in a given string
+
+8. print duplicate words in a given string
+
+9. print unique words in a given string
+
+10. print frequency of each word in given string
+
+11. print number of character in each word
+
+12. print number of vowels in each word
+
+13. print number of alphabets,digits and special characters in a given string
+
+14. print density of each word in a given string.
+
+15. WAP to accept two numbers and print prime numbers between them.
+
+Sample input: 
+
+Enter start number : 10
+
+Enter stop number:  100
+
+Expected Output:  11 13 17.........
+
+16. WAP to check given string is palindrome string or not without using predefined functions.
+
+17. WAP to accept string from user and find following
+
+a. Number of alphabets
+
+b.  Number of digits
+
+c. Number of special characters
+
+d. Number of words
+
+18. WAP to accept string from user and find following
+
+a. Number of alphabets in each word.
+
+b.  Number of vowels  and number of consonant's in each word.
+
+c.  Number of digits in each word
+
+
+19. WAP to accept  string and find longest word in a given string. 
+
+20. WAP to accept N values and find max and second max value, min and second min value.
+
+21. WAP to accept a positive number N and calculate M= 2N (2 raised to power N). and calculate the sum of digits of M till we gets single digit number.
+
+Sample input:
+
+Enter N value:  6
+
+Expected output: 1
+
+Explanation:  
+
+   If N=6 then M= 26  ==> 64
+
+Here 64 is not a single digit, so we need to do sum:  6+4==> 10  ==>  1+0===> 1,
+
+M=1
